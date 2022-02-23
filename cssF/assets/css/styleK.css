@@ -1,0 +1,11 @@
+body{
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 500 !important;
+    background-color: #fff;
+    -ms-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: 1px !important;
+}
+thead tr td{
+    font-weight: bold;
+}
